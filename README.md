@@ -21,7 +21,7 @@ Users should be able to:
 - See the social media share links when they click the share ico
 
 - Solution URL:(https://github.com/Marvel123g/article-preview.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://marvel123g.github.io/article-preview/)
 
 ## My process
 
@@ -33,6 +33,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [article preview](https://www.your-site.com)
-- Frontend Mentor - [@marvel123g](https://www.frontendmentor.io/profile/yourusername)
+- Website - [article preview](https://marvel123g.github.io/article-preview/)
+- Frontend Mentor - [@marvel123g](https://www.frontendmentor.io/profile/Marvel123g)
 - Instagram - [@ma.rvellous971]
